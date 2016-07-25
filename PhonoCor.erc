@@ -1,0 +1,196 @@
+D:\_max\Arktur_006\PhonoCor.erc:
+
+ERC Report Options:
+-------------------
+
+Single Node Nets:   On
+No Node Nets:       On
+Electrical Rules:        On
+Unconnected Pins:        On
+Unconnected Wires:       On
+Bus/Net Rules:           On
+Component Rules:         On
+Net Connectivity Rules:  On
+Hierarchy Rules:         On
+
+ERC Errors:
+-----------
+
+
+SINGLE NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NO NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ELECTRICAL RULES:
+
+Warning 1 -- Net +15V has no input pins
+Warning 2 -- Net +15V has no output pins
+Warning 3 -- Net GND has no input pins
+Warning 4 -- Net GND has no output pins
+Warning 5 -- Net -15V has no input pins
+Warning 6 -- Net -15V has no output pins
+Warning 7 -- Net NET00001 has no input pins
+Warning 8 -- Net NET00001 has no output pins
+Warning 9 -- Net NET00002 has no input pins
+Warning 10 -- Net NET00002 has no output pins
+Warning 11 -- Net AGND has no output pins
+Warning 12 -- Net NET00003 has no input pins
+Warning 13 -- Net NET00003 has no output pins
+Warning 14 -- Net NET00006 has no input pins
+Warning 15 -- Net NET00006 has no output pins
+Warning 16 -- Net NET00009 has no input pins
+Warning 17 -- Net NET00009 has no output pins
+Warning 18 -- Net NET00007 has no input pins
+Warning 19 -- Net NET00007 has no output pins
+Warning 20 -- Net NET00008 has no input pins
+Warning 21 -- Net NET00008 has no output pins
+Warning 22 -- Net NET00010 has no input pins
+Warning 23 -- Net NET00010 has no output pins
+Warning 24 -- Net NET00011 has no input pins
+Warning 25 -- Net NET00011 has no output pins
+Warning 26 -- Net NET00016 has no input pins
+Warning 27 -- Net NET00016 has no output pins
+Warning 28 -- Net NET00013 has no input pins
+Warning 29 -- Net NET00013 has no output pins
+Warning 30 -- Net NET00014 has no output pins
+Warning 31 -- Net NET00015 has no output pins
+Warning 32 -- Net NET00017 has no input pins
+Warning 33 -- Net NET00017 has no output pins
+Warning 34 -- Net NET00018 has no output pins
+Warning 35 -- Net NET00000 has no input pins
+Warning 36 -- Net NET00000 has no output pins
+Warning 37 -- Net NET00020 has no output pins
+Warning 38 -- Net NET00004 has no input pins
+Warning 39 -- Net NET00004 has no output pins
+Warning 40 -- Net NET00005 has no input pins
+Warning 41 -- Net NET00005 has no output pins
+Warning 42 -- Net NET00012 has no input pins
+Warning 43 -- Net NET00012 has no output pins
+Warning 44 -- Net NET00019 has no input pins
+Warning 45 -- Net NET00019 has no output pins
+Warning 46 -- Net NET00021 has no input pins
+Warning 47 -- Net NET00021 has no output pins
+Warning 48 -- Net NET00022 has no input pins
+Warning 49 -- Net NET00022 has no output pins
+Warning 50 -- Net NET00023 has no input pins
+Warning 51 -- Net NET00023 has no output pins
+Warning 52 -- Net NET00024 has no input pins
+Warning 53 -- Net NET00024 has no output pins
+Warning 54 -- Net NET00025 has no input pins
+Warning 55 -- Net NET00025 has no output pins
+Warning 56 -- Net NET00026 has no input pins
+Warning 57 -- Net NET00026 has no output pins
+Warning 58 -- Net NET00027 has no input pins
+Warning 59 -- Net NET00027 has no output pins
+Warning 60 -- Net NET00028 has no input pins
+Warning 61 -- Net NET00028 has no output pins
+Warning 62 -- Net NET00029 has no output pins
+Warning 63 -- Net NET00030 has no output pins
+Warning 64 -- Net NET00031 has no input pins
+Warning 65 -- Net NET00031 has no output pins
+Warning 66 -- Net NET00032 has no output pins
+Warning 67 -- Net NET00033 has no input pins
+Warning 68 -- Net NET00033 has no output pins
+Warning 69 -- Net NET00034 has no output pins
+Warning 70 -- Net NET00035 has no input pins
+Warning 71 -- Net NET00035 has no output pins
+Warning 72 -- Net NET00037 has no input pins
+Warning 73 -- Net NET00037 has no output pins
+Warning 74 -- Net NET00038 has no input pins
+Warning 75 -- Net NET00038 has no output pins
+
+75 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED PINS:
+
+Warning 76 -- Unconnected pin XS2-1 on sheet:Sheet1 at mm (557.500,575.625)
+Warning 77 -- Unconnected pin XS2-4 on sheet:Sheet1 at mm (557.500,560.625)
+Warning 78 -- Unconnected pin DA3-11 on sheet:Sheet1 at mm (275.000,478.125)
+Warning 79 -- Unconnected pin DA3-2 on sheet:Sheet1 at mm (280.000,475.625)
+Warning 80 -- Unconnected pin DA1-11 on sheet:Sheet1 at mm (275.000,610.000)
+Warning 81 -- Unconnected pin DA1-2 on sheet:Sheet1 at mm (280.000,607.500)
+
+6 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED WIRES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+BUS/NET RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COMPONENT RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NET CONNECTIVITY RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+HIERARCHY RULES:
+
+
+Hierarchy is simple.
+Hierarchy is resolved.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ERC Summary:
+------------
+
+Single Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+No Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Electrical:
+	Errors:         0
+	Warnings:       75
+	Ignored Errors: 0
+Unconnected Pin:
+	Errors:         0
+	Warnings:       6
+	Ignored Errors: 0
+Unconnected Wire:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Bus/Net:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Net Connectivity:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Hierarchy:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
